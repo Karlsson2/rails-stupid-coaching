@@ -1,3 +1,50 @@
 // Place all the styles related to the questions controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+body{
+  font-family: 'Comic Neue', cursive;
+
+}
+
+.content {
+  padding: 10px;
+}
+
+.character {
+  font-style: italic;
+}
+
+.coachResponse {
+  font-weight: bold;
+}
+
+h1{
+  padding:10px;
+  margin-bottom: 0px;
+}
+#form {
+  padding:10px;
+  width: 100%;
+}
+.content{
+  p {
+    padding: 0px 0px 0px 10px;
+    margin: 0;
+  }
+}
+
+.response {
+  border-left: 10px solid lightgrey;
+  margin: 10px;
+  padding: 5px 15px;
+}
+
+.container {
+  margin: 0 auto;
+  padding: 10px;
+  width: 500px;
+}
+
+a {
+  padding: 10px;
+}
